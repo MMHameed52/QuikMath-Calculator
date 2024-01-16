@@ -1,1 +1,1 @@
-Just a simple calculator
+An effiecient calculator
